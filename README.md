@@ -2,7 +2,7 @@
 
 一个适用于 GitHub 的用户脚本，提供图片预览和多语言 README 原地切换两项功能。
 
-![previewer](assets/previewer.png)
+[简体中文](https://github.com/Moly6/github-readme-enhancer) | [English](README.en.md)
 
 ## 功能一：图片预览
 
@@ -13,6 +13,8 @@
 - 支持图片缩略图导航。
 - 自动排除 `data-canonical-src` 中包含 `img.shields.io` 或 `badge`（不区分大小写）的图片，避免徽章进入预览和切换列表。
 - 不请求额外权限，也不依赖第三方库。
+
+![previewer](assets/previewer.png)
 
 ## 功能二：多语言 README 原地切换
 
