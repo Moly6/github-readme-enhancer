@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GitHub README 增强工具
 // @namespace    https://github.com/Moly6/github-readme-enhancer
-// @version      2.0.0
+// @version      2.0.1
 // @description  增强 GitHub README：支持图片预览与多语言 README 原地切换
 // @author       Moly6
 // @tag          GitHub
